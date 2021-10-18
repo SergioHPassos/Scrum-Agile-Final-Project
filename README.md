@@ -11,7 +11,7 @@ Developer should have a clear-cut picture of what features it must incorporate a
 Agile software development process has many methods which are used in the software development among which some of them are scrum, feature driven development, extreme programming etc. Frequent inspection and adaptation are the major methodology which can be incorporated into an agile software development processes. It encourages accountability, teamwork and self-organization and it is aligned towards business approach which include customer in all development process.
 
 
-What does it mean to be a good team member in software development?
+- What does it mean to be a good team member in software development?
 
 Good team member are the ones who form a good software development teams. Features of good team members are as follows:
   Interactive
